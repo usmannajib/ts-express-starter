@@ -1,17 +1,17 @@
 {
   "name": "ts-express-starter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A minimal starter template to quickly get started with Express projects using TypeScript",
   "main": "src/index.ts",
   "scripts": {
     "prod": "tsc && node ./build/index.js",
-    "dev": "ts-node-dev --respawn --transpileOnly src/index.ts",
-    "format": "prettier --check src/index.ts"
+    "dev": "ts-node-dev --respawn --transpileOnly src/index.ts"
   },
   "keywords": [
     "TypeScript",
-    "Express",
-    "Starter"
+    "ExpressJS",
+    "Starter-Template",
+    "NodeJS"
   ],
   "author": "Usman Najeeb",
   "license": "MIT",
